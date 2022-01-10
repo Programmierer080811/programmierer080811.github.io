@@ -1,0 +1,47 @@
+.conteyner {
+    height: 350px;
+    width: 170px;
+    position: relative;
+}
+
+.img {
+    height: 350px;
+    width: 170px
+}
+
+.text {
+    position: absolute;
+    left: 30px;
+    width: 125px;
+    height: 41px;
+    font-size: 16px;
+    left: 30px;
+    top: 239px;
+}
+
+.text2 {
+    position: absolute;
+    left: 16px;
+    width: 153px;
+    height: 41px;
+    font-size: 16px;
+    left: 16px;
+    top: 290px;
+}
+
+.avatar {
+    width: 150px;
+    position: absolute;
+    left: 18px;
+    top: 40px;
+}
+
+.text3 {
+    position: absolute;
+    left: 40px;
+    top: 200px;
+    font-size: 25px;
+    border: 2px crimson solid;
+    background-color: #fff;
+    text-decoration: none;
+}
