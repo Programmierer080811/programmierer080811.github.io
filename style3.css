@@ -1,0 +1,30 @@
+img {
+    width: 400px;
+    margin-top: 100px;
+    margin-left: 60px;
+    border-radius: 70px;
+    border: 20px solid black;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    float: left;
+    font-size: 35px;
+    position: absolute;
+}
+
+body {
+    background: url(programmierer080811.github.io/1620147715_50-phonoteka_org-p-besshovnii-fon-belii-53.jpg);
+}
+
+.text {
+    font-size: 40px;
+    position: absolute;
+    left: 125px;
+    top: 350px;
+    border: 30px rgb(83, 170, 211) solid;
+    border-radius: 40px;
+    background-color: rgb(83, 170, 211);
+}
