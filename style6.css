@@ -1,0 +1,40 @@
+body {
+    background: url(1620147715_50-phonoteka_org-p-besshovnii-fon-belii-53.jpg);
+}
+
+img {
+    width: 1000px;
+    border: 10px solid rgb(0, 0, 0);
+    border-radius: 17px;
+}
+
+.etc {
+    font-size: 50px;
+    position: absolute;
+    left: 550px;
+    top: 100px;
+    text-decoration: none;
+    color: black;
+    background-color: rgb(0, 94, 110);
+    border-radius: 10px;
+}
+
+
+
+div {
+    width: 1020px;
+    height: 1000;
+    background-color: black;
+    border: 10px solid rgb(235, 86, 0) ;
+    border-radius: 10px;
+    margin-top: 50px;
+    
+}
+.openvpn {
+    text-decoration: none;
+    color: black;
+    float: left;
+    font-size: 35px;
+    position: absolute;
+    margin-top: -50px;
+}
